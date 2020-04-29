@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sairam-profile/static/css/main.575f0ec9.chunk.css",
+    "main.js": "/sairam-profile/static/js/main.a87adb8a.chunk.js",
+    "main.js.map": "/sairam-profile/static/js/main.a87adb8a.chunk.js.map",
+    "runtime-main.js": "/sairam-profile/static/js/runtime-main.6b8ba244.js",
+    "runtime-main.js.map": "/sairam-profile/static/js/runtime-main.6b8ba244.js.map",
+    "static/js/2.dafb84de.chunk.js": "/sairam-profile/static/js/2.dafb84de.chunk.js",
+    "static/js/2.dafb84de.chunk.js.map": "/sairam-profile/static/js/2.dafb84de.chunk.js.map",
+    "index.html": "/sairam-profile/index.html",
+    "precache-manifest.bcc702840c65a1bac0233017dddcbeca.js": "/sairam-profile/precache-manifest.bcc702840c65a1bac0233017dddcbeca.js",
+    "service-worker.js": "/sairam-profile/service-worker.js",
+    "static/css/main.575f0ec9.chunk.css.map": "/sairam-profile/static/css/main.575f0ec9.chunk.css.map",
+    "static/js/2.dafb84de.chunk.js.LICENSE.txt": "/sairam-profile/static/js/2.dafb84de.chunk.js.LICENSE.txt",
+    "static/media/ram.jpg": "/sairam-profile/static/media/ram.30346c7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8ba244.js",
+    "static/js/2.dafb84de.chunk.js",
+    "static/css/main.575f0ec9.chunk.css",
+    "static/js/main.a87adb8a.chunk.js"
+  ]
+}
